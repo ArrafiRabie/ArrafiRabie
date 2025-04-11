@@ -2,10 +2,7 @@
 
 ## 👋 Hey there, I'm Rabie Arrafi
 
-### 🌟 Hello World (Animated)
-
-![Hello World Animated](https://media.giphy.com/media/1n0sO8zV3b5uO4j3Tg/giphy.gif)
-
+### 🌟 Hello World
 
 I'm not just a developer. I'm someone who found a deep connection with the machine,  
 someone who speaks fluently in C++ and C#, not just through syntax — but through logic, creativity, and endless hours of problem-solving.
