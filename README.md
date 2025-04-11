@@ -2,7 +2,8 @@
 
 ## 👋 Hey there, I'm Rabie Arrafi
 
-![Coding](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+### 🌟 Hello World in ASCII Art:
+
 
 I'm not just a developer. I'm someone who found a deep connection with the machine,  
 someone who speaks fluently in C++ and C#, not just through syntax — but through logic, creativity, and endless hours of problem-solving.
