@@ -24,22 +24,6 @@ and the company of my computer — my truest friend in a noisy world.
 - Builder of real, solid systems — no fancy frontend, just reliable backend power
 - Constant learner, quiet thinker, focused mind
 
----
-
-### 📊 GitHub Stats
-
-![Rabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArrafiRabie&show_icons=true&theme=tokyonight)
-
----
-
-### 🏷️ Badges
-
-![Followers](https://img.shields.io/github/followers/ArrafiRabie?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=ArrafiRabie&color=blue)
-![Top Language](https://img.shields.io/github/languages/top/ArrafiRabie?style=flat&color=blue)
-
----
-
 If you're looking for fancy animations or colorful UI,  
 I'm not your guy.
 
