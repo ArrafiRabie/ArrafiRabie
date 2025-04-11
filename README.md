@@ -2,7 +2,9 @@
 
 ## 👋 Hey there, I'm Rabie Arrafi
 
-![Hello World Animated](https://media.giphy.com/media/XuZo6d57mxtVqn8mWG/giphy.gif)
+### 🌟 Hello World (Animated)
+
+![Hello World Animated](https://media.giphy.com/media/1n0sO8zV3b5uO4j3Tg/giphy.gif)
 
 
 I'm not just a developer. I'm someone who found a deep connection with the machine,  
