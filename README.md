@@ -1,36 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Rabie Arrafi
 
-## 👋 Hey there, I'm Rabie Arrafi
-
-### 🌟 Hello World
-
-I'm not just a developer. I'm someone who found a deep connection with the machine,  
-someone who speaks fluently in C++ and C#, not just through syntax — but through logic, creativity, and endless hours of problem-solving.
-
-💻 I specialize in Data Structures and Algorithms using **C++** and **C#**,  
-and I have solid experience in working with complex **SQL Server** databases.  
-For me, solving problems isn't a task — it's a passion.  
-I enjoy diving deep into code, optimizing solutions, and building robust systems.
-
-⚒️ Over the years, I’ve built and contributed to many real-world projects —  
-pushing myself to write better, cleaner, and more efficient code every single day.
-
-☕ I’m the kind of developer who prefers silence, a warm cup of coffee,  
-and the company of my computer — my truest friend in a noisy world.
+💻 A **Global-Minded Back-End Developer** based in **Morocco** — fueled by a deep love for **clean**, **efficient**, and **logical** code.
 
 ---
 
-### 🧠 What Defines Me:
-- Deep expertise in **Data Structures** & **Algorithms**
-- Strong command of **C++**, **C#**, and **SQL Server**
-- Builder of real, solid systems — no fancy frontend, just reliable backend power
-- Constant learner, quiet thinker, focused mind
+## 🔧 Tech Stack & Expertise
 
-If you're looking for fancy animations or colorful UI,  
-I'm not your guy.
+- **Languages**: C++, C#, .NET Core, SQL Server  
+- **Specialization**: **Data Structures & Algorithms**  
+- **Approach**: I build advanced systems from scratch — **without frameworks** — to deeply understand the logic behind every line of code.  
+- **Focus**: Precision, clarity, scalability, and clean coding.
 
-But if you're looking for someone who **solves**, who **thinks deeply**,  
-and who codes with purpose — then welcome to my world.
+---
 
-📫 You can reach out if you speak the language of code...  
-Otherwise, you'll find me here — in the quiet.
+## 🌍 Actively Seeking Global Opportunities
+
+I'm actively seeking **remote or onsite opportunities** in **Europe**, the **UK**, or the **United States**.  
+I believe my mindset, dedication, and clean coding philosophy can bring **real value** to **global tech teams**.
+
+---
+
+## 🎯 Mission & Vision
+
+My goal is to become one of the **world's top software engineers** — constantly learning, building, and growing.  
+Let's **build something extraordinary together**!
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rabie-arrafi-421147268/)
+- 📧 Email: arrafirabie0@gmail.com
+- 💼 Portfolio: [GitHub Projects](https://github.com/ArrafiRabie)
+
+---
+
+> "I don’t just write code — I engineer logic that stands the test of time." 🧠
